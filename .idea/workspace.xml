@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c3f8c54-4363-475a-80d0-fb989748ac45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbuyEcPBLlgAkAyErGHPr4tMDd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\IdeaProjects\JUnit\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProcessosTest.testJunitEqualsObject">
+    <configuration name="ProcessosTest.testJunitArrayInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProcessosTest" />
+      <option name="METHOD_NAME" value="testJunitArrayInt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessosTest.testJunitEqualsObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProcessosTest" />
+      <option name="METHOD_NAME" value="testJunitEqualsObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessosTest.testeJunitObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProcessosTest" />
+      <option name="METHOD_NAME" value="testeJunitObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessosTest.testeJunitObjectNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProcessosTest" />
+      <option name="METHOD_NAME" value="testeJunitObjectNotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessosTest.testeJunitObjectNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProcessosTest" />
+      <option name="METHOD_NAME" value="testeJunitObjectNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProcessosTest.testJunitEqualsObject" />
+        <item itemvalue="JUnit.ProcessosTest.testJunitArrayInt" />
+        <item itemvalue="JUnit.ProcessosTest.testeJunitObjectNotNull" />
+        <item itemvalue="JUnit.ProcessosTest.testeJunitObjectNull" />
+        <item itemvalue="JUnit.ProcessosTest.testeJunitObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c3f8c54-4363-475a-80d0-fb989748ac45" name="Default Changelist" comment="" />
+      <created>1575637868265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575637868265</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="150" key="#Project_Structure" timestamp="1575638908414">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1575638908414" />
+    <state x="232" y="150" key="#Templates" timestamp="1575648903862">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#Templates/0.0.1280.984@0.0.1280.984" timestamp="1575648903862" />
+    <state x="92" y="92" width="1096" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575649402458">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="92" y="92" width="1096" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.984@0.0.1280.984" timestamp="1575649402458" />
+    <state x="445" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1575641165976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1575641165976" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1575654969137">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1575654969137" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1575654969137">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1575654969137" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1575654969136">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1575654969136" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1575654969137">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1575654969137" />
+    <state x="141" y="134" key="SettingsEditor" timestamp="1575638543974">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1575638543974" />
+    <state x="411" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575638984384">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="411" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.984@0.0.1280.984" timestamp="1575638984384" />
+  </component>
+</project>
